@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+/* General Reset */
+body,
+html {
+  font-family: "Open Sans", sans-serif;
+  color: #393939;
+  margin: 0;
+  padding: 0;
+}
+
+/* Text Style */
+h1,
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 300;
+}
+
+h3,
+.primary-nva {
+  font-family: "Open Sans", sans-serif;
+  font-size: 33px;
+  font-weight: 300;
+}
+
+.discount-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+}
+
+.text__bold {
+  font-weight: 700px;
+}
+
+/* Image and components */
+.icon-logos {
+  width: 50px;
+}
+
+.button {
+  width: 180px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #5bacc3;
+  color: White;
+}
+
+/* UI Element */
+.primary-nva {
+  padding: 20px;
+  margin: 20px;
+}
